@@ -1,8 +1,7 @@
-👋 Hi, I'm Muhammed Safwan
+ Hi, I'm Muhammed Safwan
 
-🚀 Full Stack Developer (MERN)
-🎓 BCA Graduate
-💡 Passionate about building clean, scalable, and efficient web applications.
+Full Stack Developer (MERN)
+BCA Graduate
 
 🚀 About Me
 
