@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Muhammed Safwan
 
-<!--
-**safwan246/safwan246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (MERN)
+🎓 BCA Graduate
+💡 Passionate about building clean, scalable, and efficient web applications.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Developer with hands-on experience in MERN stack projects
+
+Always exploring new technologies and improving problem-solving skills
+
+Love creating real-world applications with modern UI/UX
+
+Currently learning & building with Next.js, TypeScript, and advanced OOP concepts
+
+📂 What I Do
+
+Build full-stack applications using MERN
+
+Create reusable UI components and clean architecture
+
+Work with APIs and database-driven apps
+
+Deploy projects and optimize performance
+
+🌱 Currently Learning
+
+Advanced Next.js
+
+TypeScript best practices
+
+Full-stack architecture patterns
+
+📫 Connect With Me
+
+Feel free to reach out for collaboration, freelance work, or tech discussions!
