@@ -1,26 +1,23 @@
- Hi, I'm Muhammed Safwan
-
+Hi, I'm Muhammed Safwan
 Full Stack Developer (MERN)
-
-
 📂 What I Do
 
-Build full-stack applications using MERN
+Build full-stack applications using the MERN stack
 
-Create reusable UI components and clean architecture
+Create reusable UI components with clean, scalable architecture
 
-Work with APIs and database-driven apps
+Develop and integrate APIs for database-driven applications
 
-Deploy projects and optimize performance
+Deploy, monitor, and optimize applications for performance
 
 🌱 Currently Learning
 
-Advanced Next.js
+Advanced Next.js concepts
 
 TypeScript best practices
 
-Full-stack architecture patterns
+Modern full-stack architecture patterns
 
 📫 Connect With Me
 
-Feel free to reach out for collaboration, freelance work, or tech discussions!
+Open to collaborations, freelance projects, and meaningful tech discussions!
