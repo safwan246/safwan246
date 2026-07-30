@@ -177,7 +177,7 @@ A full-stack marketplace connecting brands and influencers.
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <p align="center">
 
