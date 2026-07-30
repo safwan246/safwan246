@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammed Safwan
+# Muhammed Safwan
 
 ### Full Stack Developer | MERN • Next.js • TypeScript
 
