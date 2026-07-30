@@ -16,7 +16,7 @@
 
 ---
 
-# 💫 About Me
+# About Me
 
 My journey into programming didn't begin with knowing what a programmer was.
 
@@ -44,7 +44,7 @@ Today I'm building full-stack applications, exploring scalable backend systems, 
 
 ---
 
-# 🚀 What I'm Working On
+# What I'm Working On
 
 - 🌐 Scalable Full Stack Applications
 - ⚡ Backend Architecture
@@ -55,7 +55,7 @@ Today I'm building full-stack applications, exploring scalable backend systems, 
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -89,7 +89,7 @@ Today I'm building full-stack applications, exploring scalable backend systems, 
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
 ## 🛒 WoodSpire
 
@@ -167,7 +167,7 @@ A full-stack marketplace connecting brands and influencers.
 
 ---
 
-# 🌱 2026 Goals
+# 2026 Goals
 
 - Build production-grade scalable applications
 - Learn distributed systems deeply
