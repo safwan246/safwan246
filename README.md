@@ -1,25 +1,200 @@
-<h1 align="center">Hi 👋, I'm safvan</h1>
-<h3 align="center">A passionate full stack(MERN) developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safwan246&label=Profile%20views&color=0e75b6&style=flat" alt="safwan246" /> </p>
+# Hi there, I'm Muhammed Safwan 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safwan246" alt="safwan246" /></a> </p>
+### Full Stack Developer | MERN | Next.js | TypeScript | Building Scalable Web Applications
 
-- 👨‍💻 All of my projects are available at [www.saafzy.in](www.saafzy.in)
-
-
-
-- 📫 How to reach me **safuwanfazz@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/12X248h2HrmIXzpIcU94nZZHez1_Pj5dy/view?usp=sharing](https://drive.google.com/file/d/12X248h2HrmIXzpIcU94nZZHez1_Pj5dy/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/saafzzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saafzzy" height="30" width="40" /></a>
+<p>
+Curiosity turned into passion, and passion turned into code.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+%7C+TypeScript+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwan246&show_icons=true&locale=en&layout=compact" alt="safwan246" /></p>
+</div>
 
+---
+
+# 👨‍💻 About Me
+
+I'm **Muhammed Safwan**, a Full Stack Developer from **Pattambi, Kerala, India**.
+
+My journey into programming didn't begin with knowing what a programmer was.
+
+Back in higher secondary school, my teacher asked our class:
+
+> **"What do you want to become?"**
+
+Everyone had an answer.
+
+I didn't.
+
+I simply loved computers.
+
+Then one student confidently said,
+
+> **"I want to become a programmer."**
+
+That single sentence made me curious.
+
+I went home and searched,
+
+> **"What is a programmer?"**
+
+That moment changed everything.
+
+Since then, I've been driven by curiosity, and every project I build is another question answered—and another hundred waiting to be explored.
+
+---
+
+# 🚀 Currently Exploring
+
+- 🌐 Scalable Backend Architectures
+- ⚙️ System Design
+- 🤖 AI
+- 📚 Data Structures & Algorithms
+- ☁️ Modern Deployment (Vercel • Render)
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🛒 WoodSpire — MERN E-Commerce
+
+A complete e-commerce platform built with the MERN stack featuring authentication, shopping cart, secure purchasing, REST APIs, and MongoDB Atlas.
+
+**Tech**
+
+`MongoDB` `Express.js` `React` `Node.js`
+
+---
+
+## ✅ Habit Tracker
+
+A productivity-focused application built using **Next.js + TypeScript** that helps users create habits, monitor progress, and stay consistent with a responsive modern UI.
+
+**Tech**
+
+`Next.js` `TypeScript` `MongoDB`
+
+---
+
+## 🚀 Noillin — Influencer Marketplace
+
+A large-scale marketplace connecting brands and influencers.
+
+Highlights include:
+
+- Multi-service backend
+- JWT Authentication
+- OTP Verification
+- Redis Slot Locking
+- Socket.io
+- Meilisearch
+- Booking System
+- Role-based Authorization
+
+**Tech**
+
+`Next.js`
+`Node.js`
+`Express`
+`MongoDB`
+`Redis`
+`Socket.io`
+`Meilisearch`
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=safwan246&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=safwan246&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwan246&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=safwan246&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+🌐 Portfolio
+
+https://www.saafzy.in
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/saffwann/
+
+📧 Email
+
+safuwanfazz@gmail.com
+
+</p>
+
+---
+
+# 💭 Philosophy
+
+> **"My journey into programming didn't begin with knowing what a programmer was—it began with curiosity. Every project I build is another question answered, and another hundred waiting to be explored."**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=safwan246&label=Profile+Views&color=blue&style=flat"/>
+
+</p>
