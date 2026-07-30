@@ -1,22 +1,22 @@
 <div align="center">
 
-# Hi there, I'm Muhammed Safwan 
+# 👋 Hi, I'm Muhammed Safwan
 
-### Full Stack Developer | MERN | Next.js | TypeScript | Building Scalable Web Applications
+### Full Stack Developer | MERN • Next.js • TypeScript
 
-<p>
-Curiosity turned into passion, and passion turned into code.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4FC3F7&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Full+Stack+Developer;Learning+System+Design+%26+AI;Always+Curious+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+%7C+TypeScript+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-saafzy.in-0A66C2?style=for-the-badge)](https://www.saafzy.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saffwann-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saffwann/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:safuwanfazz@gmail.com)
 
 </div>
 
 ---
 
-#  About Me
-
-I'm **Muhammed Safwan**, a Full Stack Developer from **Pattambi, Kerala, India**.
+# 💫 About Me
 
 My journey into programming didn't begin with knowing what a programmer was.
 
@@ -34,25 +34,24 @@ Then one student confidently said,
 
 > **"I want to become a programmer."**
 
-That single sentence made me curious.
+That sentence stayed with me.
 
-I went home and searched,
+I went home, searched **"What is a programmer?"**, and that curiosity completely changed my life.
 
-> **"What is a programmer?"**
+Today I'm building full-stack applications, exploring scalable backend systems, and learning something new every single day.
 
-That moment changed everything.
-
-Since then, I've been driven by curiosity, and every project I build is another question answered—and another hundred waiting to be explored.
+> **Curiosity is still my favorite programming language.**
 
 ---
 
-#  Currently Exploring
+# 🚀 What I'm Working On
 
-- 🌐 Scalable Backend Architectures
-- ⚙️ System Design
+- 🌐 Scalable Full Stack Applications
+- ⚡ Backend Architecture
 - 🤖 AI
+- 🧠 System Design
 - 📚 Data Structures & Algorithms
-- ☁️ Modern Deployment (Vercel • Render)
+- ☁️ Deployment (Vercel • Render)
 
 ---
 
@@ -61,140 +60,141 @@ Since then, I've been driven by curiosity, and every project I build is another 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel"/>
 </p>
 
 ---
 
-#  Featured Projects
+# 🌟 Featured Projects
 
-## 🛒 WoodSpire — MERN E-Commerce
+## 🛒 WoodSpire
 
-A complete e-commerce platform built with the MERN stack featuring authentication, shopping cart, secure purchasing, REST APIs, and MongoDB Atlas.
+A complete MERN e-commerce application featuring authentication, shopping cart, REST APIs, and MongoDB Atlas.
 
-**Tech**
+**Stack**
 
-`MongoDB` `Express.js` `React` `Node.js`
+`MongoDB` • `Express` • `React` • `Node.js`
 
 ---
 
 ## ✅ Habit Tracker
 
-A productivity-focused application built using **Next.js + TypeScript** that helps users create habits, monitor progress, and stay consistent with a responsive modern UI.
+A productivity-focused habit tracking application built with **Next.js** and **TypeScript** using reusable components and modern React features.
 
-**Tech**
+**Stack**
 
-`Next.js` `TypeScript` `MongoDB`
-
----
-
-## 🚀 Noillin — Influencer Marketplace
-
-A large-scale marketplace connecting brands and influencers.
-
-Highlights include:
-
-- Multi-service backend
-- JWT Authentication
-- OTP Verification
-- Redis Slot Locking
-- Socket.io
-- Meilisearch
-- Booking System
-- Role-based Authorization
-
-**Tech**
-
-`Next.js`
-`Node.js`
-`Express`
-`MongoDB`
-`Redis`
-`Socket.io`
-`Meilisearch`
+`Next.js` • `TypeScript` • `MongoDB`
 
 ---
 
-# 📈 GitHub Analytics
+## 🚀 Noillin
+
+A full-stack marketplace connecting brands and influencers.
+
+### Highlights
+
+- 🔐 JWT Authentication
+- ✉️ OTP Email Verification
+- ⚡ Redis Slot Locking
+- 🔎 Meilisearch
+- 🔄 Socket.io
+- 👥 Multi-role Authorization
+- 💳 Booking Flow
+
+**Stack**
+
+`Next.js` • `Node.js` • `Express` • `MongoDB` • `Redis` • `Socket.io`
+
+---
+
+# 📊 Development Activity
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=safwan246&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=safwan246&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safwan246&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwan246&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=safwan246&theme=github-compact"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 GitHub
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=safwan246&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safwan246&theme=github_dark" width="47%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safwan246&theme=github_dark" width="47%"/>
 
 </p>
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-🌐 Portfolio
-
-https://www.saafzy.in
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/saffwann/
-
-📧 Email
-
-safuwanfazz@gmail.com
-
-</p>
-
----
-
-# 💭 Philosophy
-
-> **"My journey into programming didn't begin with knowing what a programmer was—it began with curiosity. Every project I build is another question answered, and another hundred waiting to be explored."**
-
----
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=safwan246&label=Profile+Views&color=blue&style=flat"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=safwan246&theme=github_dark" width="47%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safwan246&theme=github_dark&utcOffset=5.5" width="47%"/>
 
 </p>
+
+---
+
+# 🌱 2026 Goals
+
+- Build production-grade scalable applications
+- Learn distributed systems deeply
+- Contribute to open source
+- Strengthen problem-solving skills
+- Explore AI-powered web applications
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.saafzy.in">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/saffwann/">LinkedIn</a> •
+<a href="mailto:safuwanfazz@gmail.com">Email</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+*"My journey into programming didn't begin with knowing what a programmer was—it began with curiosity. Every project I build is another question answered, and another hundred waiting to be explored."*
+
+⭐ If you like my work, consider following my journey.
+
+</div>
