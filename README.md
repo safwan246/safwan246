@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Muhammed Safwan 👋
+# Hi there, I'm Muhammed Safwan 
 
 ### Full Stack Developer | MERN | Next.js | TypeScript | Building Scalable Web Applications
 
@@ -14,7 +14,7 @@ Curiosity turned into passion, and passion turned into code.
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 I'm **Muhammed Safwan**, a Full Stack Developer from **Pattambi, Kerala, India**.
 
@@ -46,7 +46,7 @@ Since then, I've been driven by curiosity, and every project I build is another 
 
 ---
 
-# 🚀 Currently Exploring
+#  Currently Exploring
 
 - 🌐 Scalable Backend Architectures
 - ⚙️ System Design
@@ -90,7 +90,7 @@ Since then, I've been driven by curiosity, and every project I build is another 
 
 ---
 
-# 🌟 Featured Projects
+#  Featured Projects
 
 ## 🛒 WoodSpire — MERN E-Commerce
 
