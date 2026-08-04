@@ -15,8 +15,6 @@
 </div>
 
 ---
-Quick Bio
-
 const safwan = {
   role: "Full Stack Developer",
 
@@ -26,21 +24,23 @@ const safwan = {
     language: ["JavaScript", "TypeScript"]
   },
 
+  philosophy: "Write code that's easy to read, maintain, and scale.",
+
   currentlyWorkingOn: [
-    "Scalable Full Stack Applications",
+    "Full Stack Web Applications",
     "Backend Architecture",
-    "AI-powered Web Applications"
+    "AI-powered Solutions"
   ],
 
-  interestedIn: [
-    "Clean Code",
-    "System Design",
-    "Performance Optimization"
+  goals: [
+    "Become a better engineer every day",
+    "Contribute to meaningful products",
+    "Build software that people love"
   ],
 
   motto: "Build. Learn. Improve. Repeat."
 };
-
+ 
 ---
 
 # Tech Stack
