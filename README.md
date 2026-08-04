@@ -63,7 +63,7 @@ motto: "Build. Learn. Improve. Repeat."
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
@@ -86,7 +86,10 @@ motto: "Build. Learn. Improve. Repeat."
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safwan246&theme=github_dark&utcOffset=5.5"/>
 
 </p>
-# 2026 Goals
+
+---
+
+## 2026 Goals
 
 - Build production-grade scalable applications
 - Learn distributed systems deeply
@@ -114,6 +117,6 @@ motto: "Build. Learn. Improve. Repeat."
 
 *"My journey into programming didn't begin with knowing what a programmer was—it began with curiosity. Every project I build is another question answered, and another hundred waiting to be explored."*
 
-⭐ If you like my work, consider following my journey.
+ If you like my work, consider following my journey.
 
 </div>
