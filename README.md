@@ -63,31 +63,21 @@ motto: "Build. Learn. Improve. Repeat."
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=safwan246&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=safwan246&theme=github-dark&hide_border=true"/>
-
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=safwan246&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=safwan246&theme=github-compact&hide_border=true"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=safwan246&theme=github-compact&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwan246&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safwan246&theme=github_dark&utcOffset=5.5"/>
-
 </p>
 
----
+
 
 ## 2026 Goals
 
