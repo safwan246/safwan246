@@ -18,31 +18,18 @@
 
 # About Me
 
-My journey into programming didn't begin with knowing what a programmer was.
 
-Back in higher secondary school, my teacher asked our class:
+I didn't start my journey into programming because I had a lifelong dream of becoming a software engineer. It started with a simple curiosity.
 
-> **"What do you want to become?"**
+Back in high school, I realized I knew very little about what programming actually was. That curiosity led me to explore software development, write my first lines of code, and eventually discover a passion for building products that solve real-world problems.
 
-Everyone had an answer.
+Today, I specialize in developing full-stack web applications using the MERN stack, Next.js, and TypeScript. I'm particularly interested in backend architecture, scalable systems, and writing clean, maintainable code.
 
-I didn't.
+I'm constantly learning, building, and improving—one project at a time.
 
-I simply loved computers.
+> **"Curiosity is still my favorite programming language."**
 
-Then one student confidently said,
 
-> **"I want to become a programmer."**
-
-That sentence stayed with me.
-
-I went home, searched **"What is a programmer?"**, and that curiosity completely changed my life.
-
-Today I'm building full-stack applications, exploring scalable backend systems, and learning something new every single day.
-
-> **Curiosity is still my favorite programming language.**
-
----
 
 # What I'm Working On
 
