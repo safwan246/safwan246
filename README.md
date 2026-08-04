@@ -15,31 +15,29 @@
 </div>
 
 ---
+
+## Quick Bio
+
+```ts
 const safwan = {
   role: "Full Stack Developer",
-
-  stack: {
+location: "Kerala, India",
+stack: {
     frontend: ["React", "Next.js", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "MongoDB"],
     language: ["JavaScript", "TypeScript"]
   },
-
-  philosophy: "Write code that's easy to read, maintain, and scale.",
-
-  currentlyWorkingOn: [
-    "Full Stack Web Applications",
-    "Backend Architecture",
-    "AI-powered Solutions"
-  ],
-
-  goals: [
+philosophy: "Write code that's easy to read, maintain, and scale.",
+goals: [
     "Become a better engineer every day",
     "Contribute to meaningful products",
     "Build software that people love"
   ],
-
-  motto: "Build. Learn. Improve. Repeat."
+motto: "Build. Learn. Improve. Repeat."
 };
+```
+
+---
  
 ---
 
@@ -75,49 +73,8 @@ const safwan = {
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel"/>
 </p>
 
----
 
-# Featured Projects
 
-## 🛒 WoodSpire
-
-A complete MERN e-commerce application featuring authentication, shopping cart, REST APIs, and MongoDB Atlas.
-
-**Stack**
-
-`MongoDB` • `Express` • `React` • `Node.js`
-
----
-
-## ✅ Habit Tracker
-
-A productivity-focused habit tracking application built with **Next.js** and **TypeScript** using reusable components and modern React features.
-
-**Stack**
-
-`Next.js` • `TypeScript` • `MongoDB`
-
----
-
-## 🚀 Noillin
-
-A full-stack marketplace connecting brands and influencers.
-
-### Highlights
-
-- 🔐 JWT Authentication
-- ✉️ OTP Email Verification
-- ⚡ Redis Slot Locking
-- 🔎 Meilisearch
-- 🔄 Socket.io
-- 👥 Multi-role Authorization
-- 💳 Booking Flow
-
-**Stack**
-
-`Next.js` • `Node.js` • `Express` • `MongoDB` • `Redis` • `Socket.io`
-
----
 
 # 📊 Development Activity
 
