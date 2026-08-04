@@ -15,15 +15,31 @@
 </div>
 
 ---
+Quick Bio
 
-# What I'm Working On
+const safwan = {
+  role: "Full Stack Developer",
 
-- 🌐 Scalable Full Stack Applications
-- ⚡ Backend Architecture
-- 🤖 AI
-- 🧠 System Design
-- 📚 Data Structures & Algorithms
-- ☁️ Deployment (Vercel • Render)
+  stack: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    language: ["JavaScript", "TypeScript"]
+  },
+
+  currentlyWorkingOn: [
+    "Scalable Full Stack Applications",
+    "Backend Architecture",
+    "AI-powered Web Applications"
+  ],
+
+  interestedIn: [
+    "Clean Code",
+    "System Design",
+    "Performance Optimization"
+  ],
+
+  motto: "Build. Learn. Improve. Repeat."
+};
 
 ---
 
