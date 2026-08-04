@@ -16,21 +16,6 @@
 
 ---
 
-# About Me
-
-
-I didn't start my journey into programming because I had a lifelong dream of becoming a software engineer. It started with a simple curiosity.
-
-Back in high school, I realized I knew very little about what programming actually was. That curiosity led me to explore software development, write my first lines of code, and eventually discover a passion for building products that solve real-world problems.
-
-Today, I specialize in developing full-stack web applications using the MERN stack, Next.js, and TypeScript. I'm particularly interested in backend architecture, scalable systems, and writing clean, maintainable code.
-
-I'm constantly learning, building, and improving—one project at a time.
-
-> **"Curiosity is still my favorite programming language."**
-
-
-
 # What I'm Working On
 
 - 🌐 Scalable Full Stack Applications
