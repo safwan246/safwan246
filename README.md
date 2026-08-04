@@ -63,42 +63,29 @@ motto: "Build. Learn. Improve. Repeat."
 
 ---
 
-# 📊 Development Activity
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safwan246&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=safwan246&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=safwan246&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=safwan246&theme=github-compact"/>
-
-</p>
-
----
-
-# 📈 GitHub
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safwan246&theme=github_dark" width="47%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safwan246&theme=github_dark" width="47%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=safwan246&theme=github-compact&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=safwan246&theme=github_dark" width="47%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwan246&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safwan246&theme=github_dark&utcOffset=5.5" width="47%"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safwan246&theme=github_dark&utcOffset=5.5"/>
 
 </p>
-
----
-
 # 2026 Goals
 
 - Build production-grade scalable applications
