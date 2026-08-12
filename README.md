@@ -1,5 +1,4 @@
 <div align="center">
-
 # Muhammed Safwan
 
 ### Full Stack Developer | MERN • Next.js • TypeScript
